@@ -1,6 +1,6 @@
 # Job-simulations-on-Forage
 
-This repository contains two job simulations completed as part of my professional development of Forage.
+This repository contains two job simulations completed on Forage.
 
 ## Job Simulation 1 - BCG
 [View Job Simulation 1](./job-simulation-1/)
